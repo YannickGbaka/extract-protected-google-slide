@@ -1,3 +1,17 @@
+# Google Slide Content Extractor
+
+**Disclaimer: This tool is for educational purposes only.**
+
+This project demonstrates a method to extract content from Google Slides presentations. It is intended solely for educational and research purposes to understand web technologies and browser interactions. Users should be aware of and respect copyright laws and terms of service agreements.
+
+## Important Notes
+
+- Always obtain proper permissions before extracting or using content that doesn't belong to you.
+- This tool should not be used to violate any terms of service or infringe on copyrights.
+- The creators of this tool are not responsible for any misuse or legal consequences resulting from its use.
+
+By using this tool, you acknowledge that you understand these terms and agree to use it responsibly and ethically.
+
 ### How to extract google slide content
 
 copy and paste this code in the console
